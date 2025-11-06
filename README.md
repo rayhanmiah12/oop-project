@@ -12,6 +12,7 @@ Encapsulation	Each device keeps its own private state (name, isOn)
 Inheritance	Light, Fan, AC, and Door inherit from abstract class Device
 Polymorphism	turnOn() and turnOff() methods are overridden in subclasses
 Abstraction	Abstract class Device defines general methods for all devices
+
 🏗️ Project Structure
 src/
  └── com/
