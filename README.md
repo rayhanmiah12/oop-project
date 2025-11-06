@@ -4,7 +4,11 @@ Smart Home Device Controller is a Java console-based OOP project that simulates 
 This project is made to demonstrate Object-Oriented Programming (OOP) concepts — Abstraction, Encapsulation, Inheritance, and Polymorphism.
 
 ⚙️ Features
-✅ Turn ON/OFF different smart devices ✅ Show current status of all devices ✅ Menu-driven system (console-based) ✅ Demonstrates all 4 OOP pillars ✅ Simple, clear, and beginner-friendly structure
+✅ Turn ON/OFF different smart devices 
+✅ Show current status of all devices 
+✅ Menu-driven system (console-based) 
+✅ Demonstrates all 4 OOP pillars 
+✅ Simple, clear, and beginner-friendly structure
 
 🧠 OOP Concepts Used
 OOP Concept	Implementation
@@ -14,6 +18,7 @@ Polymorphism	turnOn() and turnOff() methods are overridden in subclasses
 Abstraction	Abstract class Device defines general methods for all devices
 
 🏗️ Project Structure
+
 src/
  └── com/
      └── smarthome/
@@ -25,11 +30,13 @@ src/
               ├── Fan.java
               ├── AC.java
               └── Door.java
+              
 ▶️ How to Run
 Open the project in IntelliJ IDEA (or any Java IDE).
 Make sure all .java files are under the correct package path.
 Run the file: SmartHome.java.
 Follow the console instructions.
+
 💡 Example Output
 🏠 Welcome to Smart Home Device Controller 🏠
 
