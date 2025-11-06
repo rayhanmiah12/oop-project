@@ -46,6 +46,7 @@ Available devices:
 Enter your choice: 2
 
 🌀 Fan is now ON.
+
 👨‍💻 Author
 Name: Rayhan Miah 
 Course: Object-Oriented Programming (Java)
