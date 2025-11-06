@@ -48,7 +48,7 @@ Enter your choice: 2
 
 🌀 Fan is now ON.
 👨‍💻 Author
-Name: Sanjid Islam Course: Object-Oriented Programming (Java) Semester: 3rd University Project
+Name: Rayhan Miah Course: Object-Oriented Programming (Java) Semester: 3rd University Project
 
 🏁 Purpose
 This project is created for OOP Lab Final to practically demonstrate how real-world smart systems can be modeled using Java OOP concepts.
